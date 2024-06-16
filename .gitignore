@@ -15,7 +15,10 @@ node_modules/commander/package.json
 node_modules/commander/package-support.json
 node_modules/commander/Readme.md
 node_modules/commander/lib/suggestSimilar.js
-release/vermgr-linux-x64
-release/vermgr-mac-x64
-release/vermgr-win-x64.exe
+release/vermgr-linux-x64-1.5.42-PROD-20240616
+release/vermgr-mac-x64-1.5.42-PROD-20240616
+release/vermgr-win-x64-1.5.42-PROD-20240616.exe
 release/version.json
+.idea/modules.xml
+.idea/vcs.xml
+.idea/VerMgr.iml
