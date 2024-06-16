@@ -1,0 +1,16 @@
+{
+  "name": "version-manager",
+  "homepage": "https://github.com/leoshiang/VerMgr#readme",
+  "version": "1.0.0",
+  "description": "這是一個版本號碼管理的小工具，支援作業系統 Windows/Linux/MacOS。",
+  "main": "vermgr.js",
+  "scripts": {
+    "build": "call release"
+  },
+  "keywords": [],
+  "author": "Leo Shiang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
